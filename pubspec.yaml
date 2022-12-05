@@ -1,7 +1,7 @@
-name: flutter_bugly_no_update
+name: flutter_bugly_latest
 description: Flutter plugin for Tencent Bugly, exclude application update
 version: 1.0.0
-homepage: https://github.com/zuiaijj/flutter_bugly_noUpdate
+homepage: https://github.com/zuiaijj/flutter_bugly_latest
 
 environment:
   sdk: '>=2.12.0 <3.0.0'

@@ -1,3 +1,3 @@
-library flutter_bugly_no_update;
+library flutter_bugly_latest;
 
 export 'src/flutter_bugly.dart';

@@ -1,8 +1,10 @@
-# flutter_bugly_no_update 
+# flutter_bugly_latest 
 [![pub package](https://img.shields.io/pub/v/flutter_bugly.svg)](https://pub.dartlang.org/packages/flutter_bugly)
 [![Gitter](https://badges.gitter.im/flutter_developer/community.svg)](https://gitter.im/flutter_developer/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
-## 支持Android/iOS 运营统计、原生异常上报、flutter异常上报
+## 支持Android/iOS 运营统计、原生异常上报、flutter异常上报; 
+
+**支持到官方最新SDK功能，无Google关联问题，SDK中心可信任**
 
 ---
 
@@ -10,16 +12,15 @@
 --
 ```yaml
 //因为大部分主流插件都已升级androidx，所以pub库升级androidx
-//版本更新弹窗问题见下面说明
 //androidx 
 dependencies:
-  flutter_bugly_no_update: lastVersion
+  flutter_bugly_latest: lastVersion
   
 //support
 dependencies:
-  flutter_bugly_no_update:
+  flutter_bugly_latest:
     git:
-      url: git@github.com:zuiaijj/flutter_bugly_noUpdate.git
+      url: git@github.com:zuiaijj/flutter_bugly_latest.git
       ref: main
 ```
 
