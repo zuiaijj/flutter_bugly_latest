@@ -19,7 +19,7 @@ dev_dependencies:
   flutter_test:
     sdk: flutter
 
-  flutter_bugly:
+  flutter_bugly_noUpdate:
     path: ../
 
 # For information on the generic Dart part of this file, see the
