@@ -83,6 +83,6 @@ lint/generated/
 lint/outputs/
 lint/tmp/
 # lint/reports/
-.pubspec.lock
+pubspec.lock
 .dart_tool/
 .idea/
