@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_bugly_noUpdate/flutter_bugly_latest.dart';
+import 'package:flutter_bugly_latest/flutter_bugly_latest.dart';
 
 void main() => FlutterBugly.postCatchedException(
       () => runApp(MyApp()),
