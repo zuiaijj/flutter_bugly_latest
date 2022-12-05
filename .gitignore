@@ -86,3 +86,4 @@ lint/tmp/
 pubspec.lock
 .dart_tool/
 .idea/
+.DS_Store
