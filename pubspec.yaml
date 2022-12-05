@@ -1,6 +1,6 @@
 name: flutter_bugly_latest
 description: Flutter plugin for Tencent Bugly, exclude application update
-version: 1.0.0
+version: 1.0.1
 homepage: https://github.com/zuiaijj/flutter_bugly_latest
 
 environment:
